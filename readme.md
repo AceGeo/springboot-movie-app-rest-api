@@ -1,4 +1,10 @@
-n this project, Spring Boot is used entirely, along with Spring Security.
+Build with :
+Sring Boot,
+Spring Security
+Mysql
+
+
+In this project, Spring Boot is used entirely, along with Spring Security.
 
 Initially, this project includes a Movie_App, where the CRUD methodology has been implemented to allow users, with appropriate authorization as an Admin, to perform actions such as get, getAll, post, update, and delete. Otherwise, as a regular user, only the get operation is allowed.
 
