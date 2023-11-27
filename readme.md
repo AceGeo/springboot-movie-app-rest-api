@@ -12,6 +12,6 @@ This authorization scheme applies not only to movies but also to categories, whi
 
 The database used is MySQL.
 
-Additionally, a Login and Register functionality has been created, providing the ability to validate users through token creation. This token is then used for authentication and authorization.
+Additionally, a Login and Register functionality has been created, providing the ability to validate users and create new ones through token creation. This token is then used for authentication and authorization.
 
 Finally, appropriate documentation has been generated using Spring Open API (commonly known as Swagger).
